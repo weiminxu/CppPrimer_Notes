@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppPrimer_Cmake", "..\CppPr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppPrimer_ParemetersInMain", "..\CppPrimer_ParemetersInMain\CppPrimer_ParemetersInMain.vcxproj", "{AAA851A3-B8A7-4FA6-8E1B-0C78BEE3AF0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppPrimer_DynamicArray", "..\CppPrimer_DynamicArray\CppPrimer_DynamicArray.vcxproj", "{C8829174-2379-49BC-A047-F407A98CB99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{AAA851A3-B8A7-4FA6-8E1B-0C78BEE3AF0A}.Release|x64.Build.0 = Release|x64
 		{AAA851A3-B8A7-4FA6-8E1B-0C78BEE3AF0A}.Release|x86.ActiveCfg = Release|Win32
 		{AAA851A3-B8A7-4FA6-8E1B-0C78BEE3AF0A}.Release|x86.Build.0 = Release|Win32
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Debug|x64.ActiveCfg = Debug|x64
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Debug|x64.Build.0 = Debug|x64
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Debug|x86.Build.0 = Debug|Win32
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Release|x64.ActiveCfg = Release|x64
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Release|x64.Build.0 = Release|x64
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Release|x86.ActiveCfg = Release|Win32
+		{C8829174-2379-49BC-A047-F407A98CB99B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
